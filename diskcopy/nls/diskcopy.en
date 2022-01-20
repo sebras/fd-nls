@@ -110,7 +110,7 @@
 9.58:only use memory for disk copy.
 9.59:show memory usage (informative).
 9.60:overwrite destination, if it already exists (in case of an image file).
-9.61:always automaticaly exit.
+9.61:always automatically exit.
 9.62:assume disk already in drive.
 9.63:go into disk error recovery mode.
 9.64:perform fast diskcopy (only copy filled sectors).
