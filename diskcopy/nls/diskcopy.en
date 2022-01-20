@@ -73,7 +73,7 @@
 6.6:please enter RECOVERY or NORMAL
 6.7:please enter FAST or FULL
 6.8:please enter UPDATE or LEAVE
-#### Space reserver to file recovery.c                   ####
+#### Space reserved to file recovery.c                   ####
 6.10:Media error reading from disk, rescanning...
 6.11:Unreadable sector at position
 #### Space reserved to file tdrvcpy.c                    ####

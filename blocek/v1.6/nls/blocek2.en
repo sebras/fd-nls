@@ -161,7 +161,7 @@ Do you want to replace unknown chars by "?"
 Syntax:
 BLOCEK [file1 [,file2 [,...]]]
 #ovladani_obrazku
-fullscreen*o<<>>O*+90*-90*horiz*vert*Exif data
+fullscreen*o<<>>O*+90*-90*horiz*vert*EXIF data
 #zoom_info
 Views image on full screen.
 #obrorig_info
@@ -226,7 +226,7 @@ Case mapping:
 #text_nenalezen
 Selected text wasn't found.
 #nahradit_vyskyt
-Replace this occurence?
+Replace this occurrence?
 #potvrzovat
 confirmation
 #nahradvse
@@ -296,7 +296,7 @@ selected:
 #ozn_nic
 nothing
 #kompinfo
-Processor:*Memory:*MB RAM*Video:* VESA version:*Videomode:*Videomemory*Refresh frequency:*BIOS default*DOS version:
+Processor:*Memory:*MB RAM*Video:* VESA version:*Video mode:*Video memory*Refresh frequency:*BIOS default*DOS version:
 #schranka_c
 Clipboard No.
 #schranka_do
@@ -328,10 +328,10 @@ will go through a whole text.
 #prevod_mala_velka
 Convert case to up
 #prevod_mala_velka_inf
-Converts case of latters in the block to up.
+Converts case of letters in the block to up.
 Doesn't touch other chars.
 #prevod_velka_mala
 Convert case to low
 #prevod_velka_mala_inf
-Converts case of latters in the block to low.
+Converts case of latte's in the block to low.
 Doesn't touch other chars.

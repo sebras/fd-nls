@@ -39,13 +39,13 @@ Font change
 #m25
 Select image filter
 #m26
-Prefered keyboards
+Preferred keyboards
 #m27
-Prefered unicode filters
+Preferred Unicode filters
 #m28
 Save settings
 #m29
-Prefered ASCII filters
+Preferred ASCII filters
 #m41
 Conversion to UTF-8
 #m42
@@ -85,14 +85,14 @@ Changes will not be saved.
 #tento_soubor_uz_jednou_mame
 This file is already opened.
 BloŸek allows you to open it again but
-it will behave independtently to previous instantion!
+it will behave independently of the previous instance!
 (NOT LIKE F.E. PASCAL IDE DOES)
 #unicode
 unicode
 #zalamovani
 word wrapping
 #unicode_varovani
-Attention! You realy shouldn't enable unicode for non-unicode files. Else evil things can happen ;-)
+Attention! You really shouldn't enable unicode for non-unicode files. Else evil things can happen ;-)
 #vyber_barvu_popredi
 Select foreground colour
 #vyber_barvu_pozadi
@@ -106,7 +106,7 @@ Settings saved
 #zrus
 '<BARVA=*;KLAVESY=cC>C<SB>ancel'
 #zatim_neni
-This funtion is not yet available.
+This function is not yet available.
 #text_napovedy
 <FONT=surea37.fn>BloŸek<SF>
 <FONT=latin216.ch>version 1.4
@@ -115,7 +115,7 @@ programmed by Laaca (laaca@seznam.cz)
 
 BloŸek is text editor and image viewer which is
 capable to edit files in unicode UTF-8 coding
-so it's very usable for example for writting WWW pages.
+so it's very usable for example for writing WWW pages.
 
 BloŸek has no restrictions about maximal file size or line length.
 Thanks to Matheusz "Fox" Viste for his Unicode fonts.
@@ -156,9 +156,9 @@ horiz.
 #flipvert
 vert.
 #fliphorz_info
-Flips horizontaly
+Flips horizontally
 #flipvert_info
-Flips verticaly
+Flips vertically
 #nejde_o_obrazek
 File is corrupted or the image data
 aren't in supported format
@@ -183,7 +183,7 @@ Case mapping:
 #text_nenalezen
 Selected text wasn't found.
 #nahradit_vyskyt
-Replace this occurence?
+Replace this occurrence?
 #potvrzovat
 confirmation
 #nahradvse
@@ -242,7 +242,7 @@ Which filters shall be in the main menu?
 #asciihelp
 ASCII conversions can't be used for texts in Unicode
 #asciiauto
-autodetekce
+autodetect
 #asciiautovaruj
 Autodetection is not always 100% reliable.
 Shall I continue?
@@ -263,11 +263,11 @@ MB RAM
 #video
 Video
 #videopamet
-Videomemory
+Video memory
 #verzevesa
 VESA version:
 #videomod
-Videomode:
+Video mode:
 #refreshfq
 Refresh frequency:
 #verzedosu

@@ -71,7 +71,7 @@ It allows you to place a name of new (non existing) file.
 #_FS_INFO
 <BARVA=*;KLAVESY=iI>I<SB>nfo
 #_FS_INFO_O_SOUBORU
-Show detailed informations about selected file.
+Show detailed information about selected file.
 #_FS_DISK
 <BARVA=*;KLAVESY=dD>D<SB>isk
 #_FS_DISK2
